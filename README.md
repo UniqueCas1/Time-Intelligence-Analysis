@@ -39,7 +39,7 @@ The report was designed to answer two key stakeholder questions:
 
 Page 1
 
-<img width="1017" height="556" alt="AI power BI dashboard 1st page" src="https://github.com/user-attachments/assets/4a5d20a6-5e6f-4575-8697-829e0ededd50" />
+<img width="1017" height="556" alt="AI power BI dashboard 1st page" src="https://github.com/user-attachments/assets/328fc158-6533-4f98-9c52-4de67909c2cc" />
 
 
 The analysis shows ₦56.25M in total sales and ₦32.45M in profit, representing over 39% year-on-year growth. A healthy 57.68% profit margin suggests strong pricing discipline, while sales trends reveal clear seasonal patterns, with performance peaking toward the end of the year.
@@ -48,8 +48,7 @@ The analysis shows ₦56.25M in total sales and ₦32.45M in profit, representin
 
 Page 2
 
-<img width="1018" height="563" alt="AI power BI dashboard 2nd page" src="https://github.com/user-attachments/assets/bd59d774-0bc7-4588-8873-28ed37eb816f" />
-
+<img width="1018" height="563" alt="AI power BI dashboard 2nd page" src="https://github.com/user-attachments/assets/23b1a43c-3288-420f-8167-afaa4911a3d3" />
 
 
 Problems revealed by this analysis:
