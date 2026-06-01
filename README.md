@@ -45,7 +45,7 @@ Page 2
 
 
 
-###PROBLEMS REVEALED BY THIS ANALYSIS:
+### PROBLEMS REVEALED BY THIS ANALYSIS:
 1. Paradox: High Promotion Volume, Lower Proportional Profit
 
 High-engagement promotions did not always translate into proportional profit, revealing potential margin inefficiencies. 10,000 promotions executed — that's a massive promotional push, yet "No Discount" campaigns generated the highest sales value
