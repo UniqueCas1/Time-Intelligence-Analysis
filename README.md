@@ -32,6 +32,7 @@ Page 1
 <img width="1017" height="556" alt="AI power BI dashboard 1st page" src="https://github.com/user-attachments/assets/328fc158-6533-4f98-9c52-4de67909c2cc" />
 
 
+
 The analysis shows ₦56.25M in total sales and ₦32.45M in profit, representing over 39% year-on-year growth. A healthy 57.68% profit margin suggests strong pricing discipline, while sales trends reveal clear seasonal patterns, with performance peaking toward the end of the year.
 
 
@@ -41,7 +42,10 @@ Page 2
 <img width="1018" height="563" alt="AI power BI dashboard 2nd page" src="https://github.com/user-attachments/assets/23b1a43c-3288-420f-8167-afaa4911a3d3" />
 
 
-PROBLEMS REVEALED BY THIS ANALYSIS:
+
+
+
+###PROBLEMS REVEALED BY THIS ANALYSIS:
 1. Paradox: High Promotion Volume, Lower Proportional Profit
 
 High-engagement promotions did not always translate into proportional profit, revealing potential margin inefficiencies. 10,000 promotions executed — that's a massive promotional push, yet "No Discount" campaigns generated the highest sales value
